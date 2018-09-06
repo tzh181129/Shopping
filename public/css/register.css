@@ -1,0 +1,51 @@
+
+div {
+    float: left;
+    width: 40%;
+
+}
+
+table {
+    float: right;
+    width: 60%;
+
+    background-image: url("../image/10.jpg");
+}
+
+.button {
+    background: #46A3FF;
+    font-size: 20px;
+    width: 30%;
+    margin-left:38%;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background: #ACD6FF;
+    color: red;
+
+}
+
+.button:active {
+    background: #FFD2D2;
+    color: white;
+}
+
+.a {
+    position: absolute;
+    top: 5%;
+    left:5%;
+    width:10%;
+
+}
+
+.login {
+    color: black;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.login:hover {
+    font-size: 25px;
+    color: red;
+}
