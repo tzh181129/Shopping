@@ -6,4 +6,6 @@
 
 3.    php artisan key:generate php artisan migrate (Optional) Run vendor/bin/phpunit to run some application tests I have written. Have a look at them in the tests folder. 
 
-4.    php artisan serve Visit localhost:8000 in your browser
+4.    composer update
+
+5.    php artisan serve Visit localhost:8000 in your browser
